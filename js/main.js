@@ -1,0 +1,1 @@
+new Swiper(".swiper-container",{navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev",clickable:!0},pagination:{el:".swiper-pagination",type:"bullets",clickable:!0},spaceBetween:150,loop:!0});
